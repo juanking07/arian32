@@ -1,4 +1,4 @@
-import youtube_dl
+import youtube_dlp
 
 def get_youtube_info(url):
     yt_opt = {
